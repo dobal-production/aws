@@ -4,3 +4,4 @@
 
 # Index
 * [Generative AI, LLM, RAG](./llm-rag.md)
+* [Database 관련 자료](./db.md)
