@@ -1,5 +1,18 @@
 # 금융권 AWS 도입 사례들
+## 2023년
+* [KB의 통합 음성 AI서비스의 현재와 미래 - 하이브리드 클라우드 기반의 똑똑한 AI상담원 콜봇](https://youtu.be/0m2fMNeY7kQ?si=UdNaGsMjXHGkaDkx)
+* [하이브리드 클라우드 플랫폼과 Agile 조직이 만드는 혁신](https://youtu.be/MlVdqAbdxrQ?si=LbRC2rS0bILsLtaO)
+* [금융 디지털 서비스 혁신을 리딩하는 교보정보통신의 클라우드 마이그레이션 사례 소개](https://youtu.be/40rcRf05FyY?si=lfeSSQwFI3oG9e4_)
+* [AWS로 구축한 피플펀드의 신용평가 MLOps 플랫폼 개발 여정](https://youtu.be/nznql5gUYMo?si=npEVGjmtKTI_rwlH)
+
 ## 2022년
+* [AWS INDUSTRY WEEK 2022 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2022-fintech)
+  * 잘 알수록 더 쉬워지는 금융 클라우드 규제와 이용
+  * 대출비교전문 플랫폼 핀다의 마이데이터 사업자로서의 AWS 인프라 구축 및 고도화 사례
+  * 금융 혁신을 위한 코어 시스템 현대화 전략 및 사례
+  * KB국민카드의 앱 모더나이제이션 여정
+  * 당근페이의 AWS를 활용한 인프라 구축 사례
+  * 2022년 한 해 동안 금융고객사들에게 가장 많은 사랑을 받은 AWS 클라우드 서비스
 * [교보생명의 첫 클라우드 여정](https://youtu.be/S2QhsDAK6t0)
 * [Agility를 위한 토스페이먼츠의 클라우드 활용법 - 토스페이먼츠](https://youtu.be/PIg-apdilRk)
 * [신한금융그룹이 빅데이터 플랫폼을 만든 이유는? - 신한금융그룹](https://youtu.be/Vjf0Ad3OPU0)
