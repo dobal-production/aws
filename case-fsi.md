@@ -21,6 +21,12 @@
 * [AWS Summit Online Korea 2022 기조연설 - 신한금융투자](https://youtu.be/zMSnEZB92jQ?t=500)
   
 ## 2021년 
+* [AWS INDUSTRY WEEK 2021 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2021)
+  * 클라우드 이용 관련 금융 규제 및 금융사의 클라우드 이용 절차 A to Z
+  * AWS 기반 "온라인 투자 연계금융업"을 취득한 제도권 P2P 금융 에잇퍼센트의 사례 공유
+  * 토스페이먼츠의 데이터 활용 인프라 구축 사례
+  * 서버리스 클라우드 기반 KB차차차 중고차 시세 예측 사례
+  * 금융업계의 VMware Cloud on AWS 사례
 * [AWS Summit Online Korea 2021 기조연설 - KB국민카드](https://youtu.be/ofbbBkKNoiM)
 * [금융X하이브리드 클라우드 플랫폼-한화생명 디지털 트랜스포메이션 전략-김나영,박인규,AWS/고안식,삼성SDS::AWS Summit Online Korea 2021](https://www.youtube.com/watch?v=MqHPaA6yl6I&list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-&index=24)
 * [클라우드 세상에서 살아남기:금융편-이한주,대표이사/공동창업자,베스핀글로벌/김민성,팀장,KB국민카드::AWS Summit Online Korea 2021](https://youtu.be/PJzyG4affGA)
