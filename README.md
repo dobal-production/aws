@@ -5,5 +5,5 @@
 # Index
 * [Generative AI, LLM, RAG](./llm-rag.md)
 * [Database 관련 자료](./db.md)
-* [금융권 AWS 도입 사례들](./case-fsi.md)
+* [금융권 AWS 도입 사례들](./fsi-references.md)
 * [금융회사들을 위한 클라우드](./fsi-cloud.md)
