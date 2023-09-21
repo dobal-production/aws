@@ -4,6 +4,8 @@
 * [하이브리드 클라우드 플랫폼과 Agile 조직이 만드는 혁신](https://youtu.be/MlVdqAbdxrQ?si=LbRC2rS0bILsLtaO)
 * [금융 디지털 서비스 혁신을 리딩하는 교보정보통신의 클라우드 마이그레이션 사례 소개](https://youtu.be/40rcRf05FyY?si=lfeSSQwFI3oG9e4_)
 * [AWS로 구축한 피플펀드의 신용평가 MLOps 플랫폼 개발 여정](https://youtu.be/nznql5gUYMo?si=npEVGjmtKTI_rwlH)
+* [투자를 모두에게, 토스증권의 MTS 구축 사례](https://youtu.be/DQFroVSkqJM?si=tC5QJMgaFlJLi-dZ)
+* [비즈니스 경계를 허무는 혁신, 단 하나의 선택 - 슈퍼앱 : KB 사례](https://youtu.be/dwxSxUkap5g?si=Hd5Fcq-CCzGfeIf8)
 
 ## 2022년
 * [AWS INDUSTRY WEEK 2022 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2022-fintech)
