@@ -1,7 +1,5 @@
 # 금융권 AWS 도입 사례들
 ## 2023년
-* [인공지능 / 기계학습 (AI / ML) 기반의 디지털 트랜스포메이션 및 글로벌 사례 - 구태훈 데이터기획부 부서장(KB국민은행)
-](https://youtu.be/4hWii_5HhoA?si=AHYXcTBOqxX7fpEi)
 * <a href="https://youtu.be/0m2fMNeY7kQ?si=UdNaGsMjXHGkaDkx" target="_blank">KB의 통합 음성 AI서비스의 현재와 미래 - 하이브리드 클라우드 기반의 똑똑한 AI상담원 콜봇</a>
 * [하이브리드 클라우드 플랫폼과 Agile 조직이 만드는 혁신](https://youtu.be/MlVdqAbdxrQ?si=LbRC2rS0bILsLtaO)
 * [금융 디지털 서비스 혁신을 리딩하는 교보정보통신의 클라우드 마이그레이션 사례 소개](https://youtu.be/40rcRf05FyY?si=lfeSSQwFI3oG9e4_)
@@ -42,6 +40,8 @@
 * [KB금융지주의 클라우드 혁신 사례 - 협업플랫폼 Clayon - 고종원 매니저(AWS), 박형주 부장(KB금융지주)](https://www.youtube.com/watch?v=KirLJPkP3SI&list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9&index=21)
 * [금융권 고객을 위한 클라우드 보안 및 규정 준수 가이드 - 이대근 시큐리티 어슈어런스 매니저(AWS)](https://youtu.be/npLT9XQ7yxM)
 * [금융권 최신 AWS 도입 사례 총정리? 신한 제주 은행, KB손해보험 도입 사례를 중심으로 -](https://www.youtube.com/watch?v=DZFKCN0wNIQ&list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9&index=15&t=4s)
+* [인공지능 / 기계학습 (AI / ML) 기반의 디지털 트랜스포메이션 및 글로벌 사례 - 구태훈 데이터기획부 부서장(KB국민은행)
+](https://youtu.be/4hWii_5HhoA?si=AHYXcTBOqxX7fpEi)
 
 ## 2018년
 * [금융 산업의 디지털 혁신을 위한 클라우드 도입 전략 제언 및 삼성 페이 혁신 사례 소개 - 임형진 수석(삼성전자)](https://www.youtube.com/watch?v=WSxO2iKux3I&list=PLORxAVAC5fUVrSU6Xvpg22CF6OzNmzRFI&index=29)
