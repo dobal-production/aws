@@ -1,5 +1,12 @@
 # 금융권 AWS 도입 사례들
 ## 2023년
+* [AWS INDUSTRY WEEK 2023 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2023-fintech)
+  * 대범하게, 꼼꼼하게 - KB의 클라우드 최적화 여정
+  * 클라우드를 위한 필수 선택, 삼성생명의 클라우드 표준 플랫폼 구축기
+  * 해외 여행 필수품 트래블월렛의 이유 있는 클라우드 전환기
+  * 금융, 더 쉽고 안전할 순 없을까? 토스페이먼츠의 클라우드 보안 여정 이야기
+  * 한국투자증권의 고군분투 이머징마켓 인프라 구축 이야기, Outposts를 활용한 베트남 MTS 구축 사례
+  * 혁신적인 금융클라우드 DR - 제3센터로 보는 서비스 연속성과 비용 효율 혁신
 * <a href="https://youtu.be/0m2fMNeY7kQ?si=UdNaGsMjXHGkaDkx" target="_blank">KB의 통합 음성 AI서비스의 현재와 미래 - 하이브리드 클라우드 기반의 똑똑한 AI상담원 콜봇</a>
 * [하이브리드 클라우드 플랫폼과 Agile 조직이 만드는 혁신](https://youtu.be/MlVdqAbdxrQ?si=LbRC2rS0bILsLtaO)
 * [금융 디지털 서비스 혁신을 리딩하는 교보정보통신의 클라우드 마이그레이션 사례 소개](https://youtu.be/40rcRf05FyY?si=lfeSSQwFI3oG9e4_)
