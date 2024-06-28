@@ -1,4 +1,10 @@
 # 금융권 AWS 도입 사례들
+## 2024년
+* [AWS Summit Seoul 2024| 금융 및 핀테크](https://kr-resources.awscloud.com/aws-summit-seoul-2024-day-1-track-4)
+  *  클라우드를 넘어, 보험사의 미래를 그리다 : 카카오페이 손해보험의 혁신
+  *  디지털 자산 플랫폼으로의 첫 걸음, 토큰증권 시스템 On AWS
+  *  클라우드 전환을 통한 뱅킹 플랫폼 혁신 : 신한의 AI 뱅커
+  *  케이뱅크의 클라우드 도입 여정 : 빅데이터, 채널, MSA, AI/ML
 ## 2023년
 * [AWS INDUSTRY WEEK 2023 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2023-fintech)
   * 대범하게, 꼼꼼하게 - KB의 클라우드 최적화 여정
