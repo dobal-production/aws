@@ -2,9 +2,10 @@
 ## 2024년
 * [AWS Summit Seoul 2024| 금융 및 핀테크](https://kr-resources.awscloud.com/aws-summit-seoul-2024-day-1-track-4)
   *  [클라우드를 넘어, 보험사의 미래를 그리다 : 카카오페이 손해보험의 혁신](https://youtu.be/rxQ1QwflZ18?si=ro_sAVbIk67vV0j1)
-  *  디지털 자산 플랫폼으로의 첫 걸음, 토큰증권 시스템 On AWS
-  *  클라우드 전환을 통한 뱅킹 플랫폼 혁신 : 신한의 AI 뱅커
-  *  케이뱅크의 클라우드 도입 여정 : 빅데이터, 채널, MSA, AI/ML
+  *  [디지털 자산 플랫폼으로의 첫 걸음, 토큰증권 시스템 On AWS](https://youtu.be/Yjkb5L6xWvY?si=C-d-GqzbrpF4XzAu)
+  *  [클라우드 전환을 통한 뱅킹 플랫폼 혁신 : 신한의 AI 뱅커](https://youtu.be/rn-iUSQhWj8?si=WE-s7kjENEjvXaa_)
+  *  [케이뱅크의 클라우드 도입 여정 : 빅데이터, 채널, MSA, AI/ML](https://youtu.be/IlEFGM6O2f4?si=Nu4M-3x92OOj3RWV)
+  *  [데이터로 미래를 설계하다 : 현대카드의 빅데이터 플랫폼 구축 사례](https://youtu.be/QZeoxpq17EQ?si=q8tWuRM_VNn5xDBJ)
 ## 2023년
 * [AWS INDUSTRY WEEK 2023 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2023-fintech)
   * 대범하게, 꼼꼼하게 - KB의 클라우드 최적화 여정
