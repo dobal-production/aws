@@ -56,6 +56,7 @@
 * [금융권 최신 AWS 도입 사례 총정리? 신한 제주 은행, KB손해보험 도입 사례를 중심으로 -](https://www.youtube.com/watch?v=DZFKCN0wNIQ&list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9&index=15&t=4s)
 * [인공지능 / 기계학습 (AI / ML) 기반의 디지털 트랜스포메이션 및 글로벌 사례 - 구태훈 데이터기획부 부서장(KB국민은행)
 ](https://youtu.be/4hWii_5HhoA?si=AHYXcTBOqxX7fpEi)
+* [AWS상에서 블록체인 서비스 구축 및 활용가이드 대방출!- 박천구 솔루션즈 아키텍트(AWS), 오재훈 이사(두나무)](https://www.youtube.com/watch?v=1-PVQT16oYc)
 
 ## 2018년
 * [금융 산업의 디지털 혁신을 위한 클라우드 도입 전략 제언 및 삼성 페이 혁신 사례 소개 - 임형진 수석(삼성전자)](https://www.youtube.com/watch?v=WSxO2iKux3I&list=PLORxAVAC5fUVrSU6Xvpg22CF6OzNmzRFI&index=29)
