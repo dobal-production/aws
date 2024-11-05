@@ -49,7 +49,13 @@
 * [KB국민은행은 시작했다-쉽고 빠른 클라우드 거버넌스 적용 전략-강병억,AWS/장강홍,KB국민은행::AWS Summit Online Korea 2021](https://youtu.be/pORPZXX5azg)
 * [마이데이터 사업자 핀다에게 듣다!-핀테크의 AWS 활용 전략-이지영,솔루션즈 아키텍트,AWS/박홍민,대표,핀다::AWS Summit Online Korea 2021](https://www.youtube.com/watch?v=t1rpaM19uBo&list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-&index=27)
 * [금융 서비스 패러다임의 전환 가속화 시대,신한금융투자의 Cloud First 전략-신중훈,AWS/최성봉,신한금융투자::AWS Summit Online Korea 2021](https://www.youtube.com/watch?v=9ctbhqiI1Sc&list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-&index=28&t=684s)
- 
+
+## 2020년
+* [[KB카드] 금융 분야 마이데이터 (My Data) 산업 도입 방안 및 AWS 활용법 – 고종원 AWS 어카운트 매니저, 양찬욱 KB국민카드 팀장](https://youtu.be/UetGWGdnDcg?si=GI_CcsIdr_IRgNk0)
+* [클라우드 핀테크 규제 준수를 위한 AWS 서비스 – 김지민 AWS 스타트업 솔루션즈 아키텍트, 박범준 AWS 스타트업 어카운트 매니저](https://youtu.be/CVkhZYagnlU?si=Pt1JMW-1jhPeyMy1)
+* [금융 회사를 위한 클라우드 이용 가이드 – 신은수 AWS 솔루션즈 아키텍트, 김호영 AWS 정책협력 담당](https://youtu.be/WKatQx6jCHg?si=SslJMsCvDRDVlzx4)
+* [부장님도 좋아하는 AWS의 안전한 프라이빗 데이터 레이크 – 신중훈 AWS 솔루션즈 아키텍트, 송규호 AWS 솔루션즈 아키텍트](https://youtu.be/YaMjZQ9P6SQ?si=0R2_97xHj9r33CVq)
+
 ## 2019년
 * [KB금융지주의 클라우드 혁신 사례 - 협업플랫폼 Clayon - 고종원 매니저(AWS), 박형주 부장(KB금융지주)](https://www.youtube.com/watch?v=KirLJPkP3SI&list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9&index=21)
 * [금융권 고객을 위한 클라우드 보안 및 규정 준수 가이드 - 이대근 시큐리티 어슈어런스 매니저(AWS)](https://youtu.be/npLT9XQ7yxM)
