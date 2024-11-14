@@ -20,6 +20,7 @@
 * [AWS로 구축한 피플펀드의 신용평가 MLOps 플랫폼 개발 여정](https://youtu.be/nznql5gUYMo?si=npEVGjmtKTI_rwlH)
 * [투자를 모두에게, 토스증권의 MTS 구축 사례](https://youtu.be/DQFroVSkqJM?si=tC5QJMgaFlJLi-dZ)
 * [비즈니스 경계를 허무는 혁신, 단 하나의 선택 - 슈퍼앱 : KB 사례](https://youtu.be/dwxSxUkap5g?si=Hd5Fcq-CCzGfeIf8)
+* [금융 서비스 혁신을 위한 클라우드 금융 코어 시스템 현대화 구축 방법 - 구태훈, 기술 파트너, AWS](https://www.youtube.com/watch?v=Cnw5n71Z-no)
 
 ## 2022년
 * [AWS INDUSTRY WEEK 2022 | 금융 및 핀테크](https://kr-resources.awscloud.com/aws-industry-week-2022-fintech)
